@@ -82,3 +82,9 @@ gh release create v<version> --title "v<version> - <title>" --notes "<release no
 - Always run tests before publishing
 - Create release notes summarizing changes
 - Plugin marketplace syncs automatically from GitHub releases
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

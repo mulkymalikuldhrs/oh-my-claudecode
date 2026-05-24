@@ -359,3 +359,9 @@ src/features/
 - **Files created**: ~17 new files
 - **Build status**: PASSING
 - **Current file count**: 88 TypeScript source files
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

@@ -2165,3 +2165,9 @@ Temperature: ${category.temperature}
 - [ARCHITECTURE.md](./ARCHITECTURE.md) - System architecture overview
 - [MIGRATION.md](./MIGRATION.md) - Migration guide from oh-my-opencode
 - [Agent Definitions](../src/agents/definitions.ts) - Complete agent configuration
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

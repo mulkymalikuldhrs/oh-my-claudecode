@@ -158,3 +158,9 @@ After build error resolution:
 - Development server runs without errors
 
 **Remember**: Fix errors quickly with minimal changes. Don't refactor, don't optimize, don't redesign. Fix the error, verify the build passes, move on.
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

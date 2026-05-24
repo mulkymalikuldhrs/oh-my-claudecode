@@ -454,3 +454,9 @@ Now that you understand the migration:
 4. **For team onboarding**: Share this guide with teammates
 
 Welcome to 3.0!
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

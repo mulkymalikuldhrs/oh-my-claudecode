@@ -926,3 +926,9 @@ test: verify build and tests pass after rebrand
 **END OF PLAN**
 
 PLAN_READY: /home/bellman/Workspace/oh-my-claude-sisyphus/.sisyphus/plans/rebrand-oh-my-claudecode.md
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

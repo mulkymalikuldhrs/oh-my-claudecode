@@ -422,3 +422,9 @@ All old commands still work:
 The difference? You don't NEED them anymore. Everything auto-activates.
 
 **New in 3.x:** Autopilot mode provides the ultimate hands-off experience.
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

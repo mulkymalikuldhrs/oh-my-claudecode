@@ -182,3 +182,9 @@ The oracle-deep agent will:
 - [ ] Returns GPT-5.2 analysis as Bash output
 - [ ] Documented in CLAUDE.md agent tables
 - [ ] Fails gracefully if Codex CLI unavailable
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

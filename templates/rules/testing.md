@@ -40,3 +40,9 @@ Add your project-specific testing requirements here:
 - Test framework configuration
 - Mock setup patterns
 - E2E test scenarios
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

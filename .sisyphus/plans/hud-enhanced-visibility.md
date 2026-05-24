@@ -555,3 +555,9 @@ feat(hud): integrate lastSkill into HUD render pipeline
 - Skill names map 1:1 with command files in `commands/*.md`
 - Visual differentiation: active modes in magenta, last skill in cyan
 - Future enhancement: could track skill history (last N skills) instead of just last one
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

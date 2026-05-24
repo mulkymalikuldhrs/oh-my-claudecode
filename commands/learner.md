@@ -132,3 +132,9 @@ If code helps, show it - but as illustration of the principle, not copy-paste ma
 
 - /note - Save quick notes that survive compaction (less formal than skills)
 - /ralph - Start a development loop with learning capture
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

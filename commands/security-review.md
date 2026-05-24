@@ -45,3 +45,9 @@ A security review report with:
 - Specific file locations and line numbers
 - Remediation guidance for each issue
 - Security checklist verification
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

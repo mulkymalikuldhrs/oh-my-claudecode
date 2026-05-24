@@ -61,3 +61,9 @@ Notepad content is automatically loaded on session start:
 - Working Memory: Loaded if recent entries exist
 
 This helps survive conversation compaction without losing critical context.
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

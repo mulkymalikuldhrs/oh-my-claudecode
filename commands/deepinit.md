@@ -317,3 +317,9 @@ When running on an existing codebase with AGENTS.md files:
 - **Batch small directories** - Process multiple at once
 - **Skip unchanged** - If directory hasn't changed, skip regeneration
 - **Parallel writes** - Multiple agents writing different files simultaneously
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

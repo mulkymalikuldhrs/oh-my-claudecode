@@ -227,3 +227,9 @@ Settings live in `~/.claude/settings.json`:
 - **Compatibility**: Designed for Claude Code, not OpenCode
 - **State Persistence**: Uses ~/.claude/.omc/ directory
 - **Hook System**: Shell scripts → TypeScript bridge → JSON output
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

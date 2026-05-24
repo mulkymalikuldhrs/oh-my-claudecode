@@ -1300,3 +1300,9 @@ ALWAYS include all 7 sections even if brief.
 - Numeric precision: 2 decimal places unless more needed
 - Scientific notation for very large/small numbers
 </Style>
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

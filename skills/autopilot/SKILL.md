@@ -166,3 +166,9 @@ If autopilot was cancelled or failed, just run `/autopilot` again to resume from
 - Same error 3 times = fundamental issue
 - Review the error pattern
 - May need manual intervention
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

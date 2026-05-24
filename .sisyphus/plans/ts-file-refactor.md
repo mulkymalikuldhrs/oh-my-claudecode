@@ -578,3 +578,9 @@ Without this migration, `parseAgentMd()` will produce `AgentConfig` objects with
 ### Example Patterns
 - `/skills/ultrawork/SKILL.md` - Example of dynamically loaded skill file
 - `src/hud/index.ts` - Example of `fileURLToPath(import.meta.url)` usage
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

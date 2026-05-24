@@ -92,3 +92,9 @@ claude plugin update oh-my-claudecode@oh-my-claudecode
 **Old version showing:**
 - The cache directory name may show old version, but the actual code is from latest commit
 - Run `claude plugin marketplace update` then `claude plugin update`
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

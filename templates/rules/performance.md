@@ -38,3 +38,9 @@ Add your project-specific performance requirements here:
 - Response time targets
 - Bundle size limits
 - Database query limits
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

@@ -39,3 +39,9 @@ Add your project-specific security requirements here:
 - Authorization rules
 - Data encryption requirements
 - Compliance requirements (GDPR, HIPAA, etc.)
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

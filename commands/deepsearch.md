@@ -35,3 +35,9 @@ Perform thorough search of the codebase for the specified query, pattern, or con
 - **Key Insights** (patterns, conventions, gotchas)
 
 Focus on being comprehensive but concise. Cite file paths and line numbers.
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

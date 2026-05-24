@@ -73,3 +73,9 @@ After completing all steps, report:
 ## Keeping Up to Date
 
 After installing oh-my-claudecode updates (via npm or plugin update), run `/omc-default-global` again to get the latest CLAUDE.md configuration. This ensures you have the newest features and agent configurations.
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

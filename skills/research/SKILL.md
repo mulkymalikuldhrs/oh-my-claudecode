@@ -509,3 +509,9 @@ Progress is preserved in `.omc/research/{session-id}/` for resume.
 - Verify figures/ directory exists
 - Check [FIGURE:] tags in findings
 - Ensure paths are relative to session directory
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

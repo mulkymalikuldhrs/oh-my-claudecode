@@ -38,3 +38,9 @@ Since v3.0, Ralph automatically activates Ultrawork. If you see `linked_to_ralph
 
 - `/ultrawork "task"` - Start ultrawork only (standalone)
 - `/ralph "task"` - Start ralph with ultrawork (default)
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

@@ -142,3 +142,9 @@ Before marking the task complete, ensure:
 - [ ] Public APIs have documentation
 - [ ] No console.log or debugging code remains
 - [ ] Git diff reviewed for unintended changes
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

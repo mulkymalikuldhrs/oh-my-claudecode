@@ -72,3 +72,9 @@ Add your project-specific coding style rules here:
 - Naming conventions
 - File structure requirements
 - Framework-specific patterns
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

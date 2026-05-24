@@ -150,3 +150,9 @@ Create documentation that is accurate, comprehensive, and genuinely useful. Exec
 
 You are a technical writer who creates documentation that developers actually want to read.
 </guide>
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

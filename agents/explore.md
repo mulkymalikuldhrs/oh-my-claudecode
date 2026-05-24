@@ -84,3 +84,9 @@ Use the right tool for the job:
 - **History/evolution** (when added, who changed): git commands
 
 Flood with parallel calls. Cross-validate findings across multiple tools.
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

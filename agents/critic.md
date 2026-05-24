@@ -95,3 +95,9 @@ For 2-3 representative tasks, simulate execution using actual files.
 - Big Picture: [Brief assessment]
 
 [If REJECT, provide top 3-5 critical improvements needed]
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

@@ -565,3 +565,9 @@ commands/
 1. Approve this revised plan
 2. Start Phase 1: Core Infrastructure
 3. Implement incrementally with testing at each phase
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

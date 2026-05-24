@@ -184,3 +184,9 @@ If you encounter issues during migration:
 - Check the [GitHub Issues](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus/issues)
 - Review the [Documentation](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus/tree/main/docs)
 - Run `/doctor` to diagnose common issues
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

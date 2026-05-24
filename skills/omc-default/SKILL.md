@@ -76,3 +76,9 @@ After installing oh-my-claudecode updates (via npm or plugin update), run `/omc-
 - **`/omc-default-global`**: Creates `~/.claude/CLAUDE.md` for all projects
 
 Project-scoped configuration takes precedence over global configuration.
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

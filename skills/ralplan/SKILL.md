@@ -217,3 +217,9 @@ To stop an active ralplan session:
 5. **Complete** when Critic approves or max iterations reached with warnings
 
 The iterative loop refines the plan until it meets the rigorous standards of all three agents, ensuring comprehensive, architecturally sound work plans ready for execution.
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

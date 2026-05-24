@@ -1444,3 +1444,9 @@ export type HudPreset = 'minimal' | 'focused' | 'full' | 'opencode' | 'dense';
 - [OpenCode Agent Docs](https://opencode.ai/docs/agents)
 - [Existing HUD Plan](/home/bellman/Workspace/oh-my-claude-sisyphus/.sisyphus/plans/sisyphus-hud-integration.md)
 - [HUD Enhanced Visibility Plan](/home/bellman/Workspace/oh-my-claude-sisyphus/.sisyphus/plans/hud-enhanced-visibility.md)
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

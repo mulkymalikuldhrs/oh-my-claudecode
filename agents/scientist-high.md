@@ -1021,3 +1021,9 @@ When you encounter unexpected results, systematically validate before reporting:
 
 This creates an audit trail showing how insights emerged organically from data, not through p-hacking.
 </Insight_Discovery_Loop>
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

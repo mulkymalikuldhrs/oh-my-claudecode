@@ -3384,3 +3384,9 @@ This will:
 1. Create the feature branch
 2. Begin Phase 1 implementation
 3. Track progress against this plan
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

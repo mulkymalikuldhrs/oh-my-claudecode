@@ -33,3 +33,9 @@ Critically evaluate plans using Critic. No plan passes without meeting rigorous 
 4. Are implementation steps specific?
 5. Are risks identified with mitigations?
 6. Are verification steps defined?
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

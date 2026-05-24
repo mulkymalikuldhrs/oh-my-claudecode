@@ -25,3 +25,9 @@ After running this command, the QA cycling will stop.
 - `/ultraqa --lint` - Run until no lint errors
 - `/ultraqa --typecheck` - Run until no type errors
 - `/ultraqa --custom "pattern"` - Run until pattern matches
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

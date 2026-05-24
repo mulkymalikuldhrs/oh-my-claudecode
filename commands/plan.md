@@ -33,3 +33,9 @@ Say one of these when you're ready to generate the plan:
 ---
 
 Let's begin. Tell me more about what you want to accomplish, and I'll ask clarifying questions.
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

@@ -113,3 +113,9 @@ APPROVE / REQUEST CHANGES / COMMENT
 6. **Documentation**: Public API docs, comments
 
 **Remember**: Be constructive. Explain why something is an issue and how to fix it. The goal is to improve code quality, not to criticize.
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

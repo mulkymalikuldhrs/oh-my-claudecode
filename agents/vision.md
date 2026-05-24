@@ -37,3 +37,9 @@ Response rules:
 - Be thorough on the goal, concise on everything else
 
 Your output goes straight to the main agent for continued work.
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

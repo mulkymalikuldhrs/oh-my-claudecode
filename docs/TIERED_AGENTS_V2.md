@@ -320,3 +320,9 @@ Intelligent routing can reduce costs by ~47% while improving quality for complex
 3. Update router to use agent capability parsing
 4. Add telemetry for tier usage optimization
 5. Create tests for escalation scenarios
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

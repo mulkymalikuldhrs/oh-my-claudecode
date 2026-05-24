@@ -107,3 +107,9 @@ Example: `qa-api-health-1704067200`
 - Wait for readiness before sending commands
 - Capture output before assertions
 - Report actual vs expected on failure
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

@@ -41,3 +41,9 @@ Create plan when user says: "Create the plan", "Make it into a work plan", "I'm 
 - 90%+ acceptance criteria are testable
 - No vague terms without metrics
 - All risks have mitigations
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)
