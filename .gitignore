@@ -3,3 +3,5 @@ dist/
 *.log
 .DS_Store
 .omc/
+__pycache__/
+*.pyc
